@@ -1,0 +1,5 @@
+# Exception for .gitignore
+!.gitignore
+
+__pycache__/
+
