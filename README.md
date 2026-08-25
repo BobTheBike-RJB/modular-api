@@ -3,6 +3,8 @@
 Extend simply by adding files & functions to the 'modules' folder.
 Great for quickly adding Python-specific functionality to any backend.
 
+Demo link & hookups to form UI coming soon.
+
 ## Quickstart
 
 > Assumes that _uv_ is already installed
